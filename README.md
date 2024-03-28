@@ -1,10 +1,10 @@
 <h1 align="center">Hola! 👋, Soy Tomás Facundo Sosa</h1>
-<h3 align="center">Grado de la Tecnicatura en Programación. 20 años, de Tucumán, Argentina.</h3>
+<h3 align="center">Graduado de la Tecnicatura en Programación. 20 años, de Tucumán, Argentina.</h3>
 <h3 align="center">Pasante como desarrollador .NET en el Ministerio de Educación de Tucumán.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tommysosa&label=Profile%20views&color=0e75b6&style=flat" alt="tommysosa" /> </p>
 
-- 🌱 Empecé a aprender **NextJs**
+- 🌱 Empecé a aprender **React Native**
 
 - 👨‍💻 Portfolio con mis proyectos publicados: [https://tomassosa-df065.web.app/portfolio](https://tomassosa-df065.web.app/portfolio)
 
